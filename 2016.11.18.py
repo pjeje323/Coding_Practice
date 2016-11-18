@@ -9,7 +9,7 @@ def print_stars(x):
         print '*'*i
 
 
-#print_stars(5)
+print_stars(5)
 
 
 # 2. 첫째 줄에는 별 N개, 둘째 줄에는 별 N-1개, ..., N번째 줄에는 별 1개를 찍는 문제
@@ -21,7 +21,7 @@ def print_stars_reverse(x):
     else:
         print_stars_reverse(x-1)
 
-#print_stars_reverse(5)
+print_stars_reverse(5)
 
 # 3. 첫째 줄에는 별 N개, 둘째 줄에는 별 N-1개, ..., N번째 줄에는 별 1개를 찍는 문제(오른쪽 정렬)
 
