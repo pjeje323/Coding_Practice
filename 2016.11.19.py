@@ -25,5 +25,5 @@ def shortest_distance(points):
 shortest_distance(s)
 
 # for문을 두번이나 돌려야 하고
-# list를 동시에 두 개 생성해서 index로 값을 찾아야해서
-# 효율성이 떨어지는 함수... 많이 아쉽다.
+# list를 동시에 두 개 생성  index로 값을 찾아야해서
+# 효율성이 떨어진......아 많 아쉽다.
